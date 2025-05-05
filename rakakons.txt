@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Hacked Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: monospace;
+        }
+        img {
+            margin-top: 50px;
+            width: 400px;
+            max-width: 90%;
+        }
+        .hacked {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://c.top4top.io/p_3412ykptc0.jpg" alt="Hacked Image">
+    <p class="hacked">Saya <span style="color:white;">Raka Ramadhan asli Sidoarjo</span></p>
+    <p style="margin-top: 30px;">"aku adalah raka sang penipu dan suka maling uang teman , </br>
+     selain itu aku juga mengaku sebagai hacker kelas dunia </br>
+     dan menjelekan orang lain"</p>
+</body>
+</html>
