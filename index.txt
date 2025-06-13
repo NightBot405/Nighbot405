@@ -1,0 +1,63 @@
+<title>NightBot405 Was Here !!</title>
+<link rel="icon" href="https://h.top4top.io/p_3451fq7hq0.jpg">
+<meta name="description" content="NightBot405 Was Here">
+<meta charset="UTF-8">
+<style>
+*{
+font-family: "Courier New";
+}
+html {
+background: black;
+color: white;
+}
+</style>
+<center>
+<table height="100%" width="100%">
+<td align="centeR">
+<br><br>
+<style type="text/css">
+.putar-kiri {
+    -moz-animation: rota-full-left 30s infinite linear;
+    -webkit-animation: rota-full-left 30s infinite linear;
+}
+@-moz-keyframes rota-full-left {
+     0% {-moz-transform: rotate(0deg);}                     
+     100% {-moz-transform: rotate(-360deg);}
+}
+@-webkit-keyframes rota-full-left {
+     0% {-webkit-transform: rotate(0deg);}                    
+     100% {-webkit-transform: rotate(-360deg);}
+}
+</style>
+<body>
+<h3><i><font style="color: black; text-shadow: 4px 4px 4px red;" color="black" size="12"></font></i></h3>
+<br>
+<br>
+
+  <center><img style="width:259px;" src="https://h.top4top.io/p_3451fq7hq0.jpg"></center>
+<i>
+<h3><i><font style="color: black; text-shadow: 4px 4px 4px red;" color="black" size="12">  </font></i></h3>
+<b>
+<h3><i><font style="color: white; text-shadow: 4px 4px 4px red;" color="black" size="6">Hacked By NightBot405</font></i></h3><br>
+
+<font size="4" color="white"></font></font><br> [+] We do the things we do for the people, not for our own interests like fame [+]
+<Hacked><br><br>
+
+
+<font size="3" color="white">GREETZ:</font><br> Pyscodes || Sonysec07 || Razhersec1337 || ./KenzXploit || ./KuncenHaxor || Eeryx_Catfish || HanzRazor || Mr.Cula || Vor.Eagle || M4SKGANS || Shinchan969 || Mr.Xyounom || Indonesia Sadboy Xploit || NINE BROTHER || MUKOMUKO CYBER TEAM || SADBOY CYBER TEAM HACKTIVIST
+<br>
+	<br>
+		<br>
+<font size="3" color="red"> FSOCIETY TEAM </font>
+<br>
+<br>
+	<br>
+<audio 
+    autoplay="autoplay" 
+    controls="controls" 
+    src="https://d.top4top.io/m_3451j3blu0.mp3" 
+    type="audio/mpeg" 
+    class="custom-audio">
+  <br>
+  <br>
+</audio>
