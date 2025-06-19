@@ -1,0 +1,89 @@
+<!DOCTYPE php>
+<php lang="id">
+<head>
+    <title>Hacked By MR.MOUSE X NIGHTBOT405</title>
+    <meta charset="UTF-8"/>
+    <meta name="author" content="MR.MOUSE ROBERT"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="MY LITE SKILL JUST LIKE YOUR SECURITY"/>
+    <meta property="og:title" content="Hacked By MR.MOUSEROBERT x MR.XYOUNOM - Indonesia Sadboy Xploit"/>
+    <meta name="keywords" content="MR.MOUSE, Indonesia Sadboy Xploit, Hacked By MR.MOUSE"/>
+    <meta property="og:image" content="https://b.top4top.io/p_3363byu7q1.png"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Haxor Uploader"/>
+    <link rel="shortcut icon" type="image/x-icon" href="https://b.top4top.io/p_3363byu7q1.png"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.prinsh.com/NathanPrinsley-textstyle/nprinsh-stext.css"/>
+    <style>
+        body {
+            background: black; /* Mengubah latar belakang menjadi hitam */
+            font-family: Calibri;
+            margin-top: 35px;
+            color: #dbd9d9;
+        }
+        h1, h2 {
+            margin-top: 0.3em;
+            margin-bottom: 0.3em;
+        }
+        h1 {
+            font-size: 32px;
+            color: #dbd9d9;
+        }
+        h2 {
+            font-size: 24px;
+            color: #dbd9d9;
+        }
+        p.message_prinsley {
+            font-size: 26px;
+            margin: 0.25em 0;
+            color: rgb(255, 0, 0); /* Mengubah warna teks p menjadi merah */
+        } 
+        p.message_prinsley2 {
+            font-size: 26px;
+            margin: 0.25em 0;
+            color: rgb(255, 255, 255); /* Mengubah warna teks p menjadi merah */
+        }
+        .hubungi_prinsh {
+            color: #00eb00;
+            text-decoration: none;
+        }
+        .hubungi_prinsh:hover {
+            color: red;
+        }
+        .othermes_nprinsh {
+            font-size: 16px;
+        }
+        marquee.foonathanPrinsley {
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-family: Tahoma;
+            height: 20px;
+            color: white;
+            left: 0;
+            border-top: 2px solid darkred;
+            padding: 5px;
+            background-color: #000;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <img src="https://d.top4top.io/p_3407f1op11.jpeg" height="100"> <!-- Ukuran gambar disesuaikan -->
+        <h1>Hacked By MR.MOUSEROBERT</h1>
+        <h2>Indonesia Sadboy Xploit</h2>
+        <p class="message_prinsley">MY LITE SKILL JUST LIKE YOUR SECURITY</p>
+        <p class="message_prinsley">#Keamanan_siber #PelecehanSeksual #Antijudol</p>
+        <p class="message_prinsley2">Thanks For To:</p>
+        <p class="message_prinsley2">M4SKGANS||Hanzrazor||NIGHTBOT405||./KenzXploit||Eeryx_Catfish||Shon_joky|
+        <p class="message_prinsley2">|Ghostsysm||Albert||K4PT3N 3RROR||Mr.Xyounom||Demonstray119||Kucinglangka||Vor.eagle||Raviozeir|
+        <p class="message_prinsley2">|Mr.Cula|</p>
+        <p class="message_prinsley2">| All for team & Independent|</p>
+        <audio autoplay loop>
+            <source src="https://b.top4top.io/m_3365wunr61.mp3" type="audio/mpeg">
+        </audio>
+        <marquee class="foonathanPrinsley">
+            <b style="color: #0000e3;font-size:16px;">lampung6etar - GANEST SEVEN - FoursDeath Team - Landak Cyber Team - Kelelawar Cyber Team - Sabun Mandi Cyber Team - Senyap Indonesia Cyber Team - Fsociety Team </b>
+        </marquee>
+    </center>
+</body>
+</html>
