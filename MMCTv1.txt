@@ -1,0 +1,80 @@
+<title>Hacked by NightBot405</title>
+<link rel="icon" href="https://e.top4top.io/p_3489mcown0.png" type="image/png" sizes="32x32">
+<meta name="description" content="Hacked by NightBot405">
+<meta charset="UTF-8">
+<style>
+        /* Video latar belakang */
+        #bgVideo {
+            position: fixed;
+            top: 0;
+            left: 0;
+            min-width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .twitter a {
+            text-decoration: none;
+            font-size: 50px;
+            text-shadow: grey 0px 0px 10px;
+        }
+
+        .play-button {
+            padding: 15px 30px;
+            background-color: red;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 20px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Video Background -->
+    <video autoplay muted loop id="bgVideo">
+        <source src="https://i.top4top.io/m_3496fhxzw0.mp4" type="video/mp4">
+        Browser Anda tidak mendukung video background.
+    </video>
+
+    <center>
+        <table width="100%" height="100%">
+            <td align="center">
+                <br>
+                <img src="https://j.top4top.io/p_346208ncg0.png" width="500" height="500" />
+                <div class="twitter">
+                    <a href="https://lotuos01.online/mawarXbagas/mawarXbagas.mp4">
+                        <h2><font color="red"><b>Hacked by NightBot405</b></font></h2>
+                    </a>
+                </div>
+                <p style="color:white; font-size:40px">
+                    "WhoooppsS your site has been hacked !!!"
+                </p>
+                <br><br>
+                <button class="play-button" onclick="playAudio()">▶ Play</button>
+
+                <!-- Audio diperbaiki -->
+                <audio id="backsound" src="https://c.top4top.io/m_34895iqf20.mp3" loop preload="auto"></audio>
+            </td>
+        </table>
+    </center>
+
+    <script>
+        function playAudio() {
+            var audio = document.getElementById('backsound');
+            audio.play();
+        }
+    </script>
+
+</body>
+</html>
